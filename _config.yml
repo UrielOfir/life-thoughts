@@ -10,6 +10,13 @@ highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages safe plugins
+safe: true
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
 
 # Exclude from processing
 exclude:
@@ -20,3 +27,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .bundle/
