@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to My Life Thoughts Journal"
+title: "Welcome to My Life Thoughts Notebook"
 date: 2024-09-24 09:41:00 +0000
 categories: [introduction, personal-growth]
 ---
 
-Welcome to my personal journal! This is the beginning of what I hope will be a meaningful collection of thoughts, insights, and reflections on life, well-being, and personal growth.
+ This is the beginning of what I hope will be a meaningful collection of thoughts, insights, and reflections on life, well-being, and personal growth.
 
-## Why Start This Journal?
+## Why Start This Notebook?
 
 I've decided to create this public space for several reasons:
 
