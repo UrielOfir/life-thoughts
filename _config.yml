@@ -1,0 +1,22 @@
+# Site settings
+title: Life Thoughts
+description: A public journal containing my personal thoughts and lessons learned about life, well-being, and personal growth.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://urielofir.github.io/life-thoughts" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
