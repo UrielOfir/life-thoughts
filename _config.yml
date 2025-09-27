@@ -1,8 +1,8 @@
 # Site settings
 title: Life Thoughts / Uriel Ofir
 description: A public journal containing my personal thoughts and lessons learned about life, well-being, and personal growth.
-baseurl: "" # Change this to empty
-url: "https://urielofir.github.io" # Remove /life-thoughts
+baseurl: "/life-thoughts"
+url: "https://urielofir.github.io"
 
 # Build settings
 markdown: kramdown
