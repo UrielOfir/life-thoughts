@@ -1,8 +1,8 @@
 # Site settings
 title: Life Thoughts / Uriel Ofir
 description: A public journal containing my personal thoughts and lessons learned about life, well-being, and personal growth.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://urielofir.github.io/life-thoughts" # the base hostname & protocol for your site
+baseurl: "" # Change this to empty
+url: "https://urielofir.github.io" # Remove /life-thoughts
 
 # Build settings
 markdown: kramdown
